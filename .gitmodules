@@ -1,3 +1,6 @@
 [submodule "lib/alex"]
 	path = lib/alex
 	url = git@github.com:wooorm/alex.git
+[submodule "lib/tinymce-alex"]
+	path = lib/tinymce-alex
+	url = git@github.com:kidfiction/tinymce-alex.git

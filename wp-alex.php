@@ -17,7 +17,7 @@ function wpalex_enqueue_scripts() {
 add_action( 'admin_enqueue_scripts', 'wpalex_enqueue_scripts' );
 
 function wpalex_load_tinymce_plugin( $plugins ) {
-	$plugins['alextinymce'] =  plugins_url( '/wp-alex.js', __FILE__ ) ;
+	$plugins['alextinymce'] =  plugins_url( '/lib/tinymce-alex/tinymce-alex.js', __FILE__ ) ;
 	return $plugins;
 }
 add_filter( 'mce_external_plugins', 'wpalex_load_tinymce_plugin' );
