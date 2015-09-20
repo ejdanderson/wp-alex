@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Alex
-Plugin URI: http://github.com/kidfiction/
+Plugin URI: http://github.com/kidfiction/wp-alex
 Description:
 Version: 0.1
 Author: Evan Anderson
