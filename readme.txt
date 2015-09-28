@@ -7,6 +7,7 @@ Contributors: ejdanderson
 Author: Evan Anderson
 Author URI:  http://evanjdanderson.com
 Tags: tinymce, editor
+Version: 1.0
 Tested up to: 4.3
 License: GPLv2 or later
 
