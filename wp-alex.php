@@ -2,10 +2,10 @@
 /*
 Plugin Name: WP Alex
 Plugin URI: http://github.com/kidfiction/wp-alex
-Description:
-Version: 0.1
+Description: WP Alex is a plugin which will integrate [Alex](http://alexjs.com) into WordPress's TinyMCE editor.
+Version: 1.0
 Author: Evan Anderson
-Author URI: http://ejdanderson.com
+Author URI: http://evanjdanderson.com
 License: GPLv2 or later
 */
 
