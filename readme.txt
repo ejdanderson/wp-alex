@@ -1,7 +1,7 @@
 === Plugin Name ===
 Plugin Name: WP Alex
 Description: WP Alex is a plugin which will integrate [Alex](http://alexjs.com) into WordPress's TinyMCE editor.
-Plugin URI: http://github.com/kidfiction/wp-alex
+Plugin URI: http://github.com/ejdanderson/wp-alex
 Donate link: http://evanjdanderson.com
 Contributors: ejdanderson
 Author: Evan Anderson
